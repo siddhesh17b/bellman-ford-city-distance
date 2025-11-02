@@ -1,0 +1,35 @@
+# Compiled C files
+*.exe
+*.o
+*.out
+*.obj
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test files (optional - remove if you want to track tests)
+test*.txt
+verify_integration.py
+
+# Matplotlib cache
+.matplotlib/
